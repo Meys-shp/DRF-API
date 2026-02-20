@@ -23,6 +23,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # External
     'rest_framework',
+    'drf_spectacular',
     # Internal
     'drf.product'
 ]
@@ -85,7 +86,14 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-
 REST_FRAMEWORK = {
+    "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema"
+}
+SPECTACULAR_SETTINGS = {
+    'TITLE': 'DRF API',
+    'DESCRIPTION': 'This is the DRF for learning. ',
+    'VERSION': '1.0.0',
+    'AUTHOR_NAME': 'Meysam Shahpoorjani ',
+
 
 }
