@@ -1,0 +1,123 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="backgroundr" />
+            <item index="1" class="java.lang.String" itemvalue="-pdf-frame-content" />
+            <item index="2" class="java.lang.String" itemvalue="maxheight" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="webkit-playsinline" />
+            <item index="1" class="java.lang.String" itemvalue="mbsc-input" />
+            <item index="2" class="java.lang.String" itemvalue="mbsc-textarea" />
+            <item index="3" class="java.lang.String" itemvalue="mbsc-button" />
+            <item index="4" class="java.lang.String" itemvalue="mbsc-page" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="31">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="wrapper" />
+            <item index="7" class="java.lang.String" itemvalue="ConfettiButton" />
+            <item index="8" class="java.lang.String" itemvalue="text-color" />
+            <item index="9" class="java.lang.String" itemvalue="secondary-text-color" />
+            <item index="10" class="java.lang.String" itemvalue="bg-color" />
+            <item index="11" class="java.lang.String" itemvalue="secondary-bg-color" />
+            <item index="12" class="java.lang.String" itemvalue="border-color" />
+            <item index="13" class="java.lang.String" itemvalue="color__bg" />
+            <item index="14" class="java.lang.String" itemvalue="color__sidebar" />
+            <item index="15" class="java.lang.String" itemvalue="color__toggle" />
+            <item index="16" class="java.lang.String" itemvalue="sub-color" />
+            <item index="17" class="java.lang.String" itemvalue="main-color" />
+            <item index="18" class="java.lang.String" itemvalue="white" />
+            <item index="19" class="java.lang.String" itemvalue="COLORS" />
+            <item index="20" class="java.lang.String" itemvalue="width__sidebar" />
+            <item index="21" class="java.lang.String" itemvalue="SIZES" />
+            <item index="22" class="java.lang.String" itemvalue="toggleBtn" />
+            <item index="23" class="java.lang.String" itemvalue="style" />
+            <item index="24" class="java.lang.String" itemvalue="a-marker" />
+            <item index="25" class="java.lang.String" itemvalue="a-entity" />
+            <item index="26" class="java.lang.String" itemvalue="a-scene" />
+            <item index="27" class="java.lang.String" itemvalue="a-plane" />
+            <item index="28" class="java.lang.String" itemvalue="div" />
+            <item index="29" class="java.lang.String" itemvalue="marquee" />
+            <item index="30" class="java.lang.String" itemvalue="tfoot" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="35">
+            <item index="0" class="java.lang.String" itemvalue="win32printing" />
+            <item index="1" class="java.lang.String" itemvalue="drf-base64" />
+            <item index="2" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="3" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="4" class="java.lang.String" itemvalue="cffi" />
+            <item index="5" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="6" class="java.lang.String" itemvalue="reportlab" />
+            <item index="7" class="java.lang.String" itemvalue="biopython" />
+            <item index="8" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="9" class="java.lang.String" itemvalue="Pillow" />
+            <item index="10" class="java.lang.String" itemvalue="tzlocal" />
+            <item index="11" class="java.lang.String" itemvalue="cryptography" />
+            <item index="12" class="java.lang.String" itemvalue="traitlets" />
+            <item index="13" class="java.lang.String" itemvalue="ipython" />
+            <item index="14" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="15" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="16" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="17" class="java.lang.String" itemvalue="xhtml2pdf" />
+            <item index="18" class="java.lang.String" itemvalue="django-rest-knox" />
+            <item index="19" class="java.lang.String" itemvalue="Django" />
+            <item index="20" class="java.lang.String" itemvalue="diff-match-patch" />
+            <item index="21" class="java.lang.String" itemvalue="django-import-export" />
+            <item index="22" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="23" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="24" class="java.lang.String" itemvalue="python-bidi" />
+            <item index="25" class="java.lang.String" itemvalue="pymodbus" />
+            <item index="26" class="java.lang.String" itemvalue="six" />
+            <item index="27" class="java.lang.String" itemvalue="certifi" />
+            <item index="28" class="java.lang.String" itemvalue="pycparser" />
+            <item index="29" class="java.lang.String" itemvalue="pytz" />
+            <item index="30" class="java.lang.String" itemvalue="urllib3" />
+            <item index="31" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="32" class="java.lang.String" itemvalue="idna" />
+            <item index="33" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="34" class="java.lang.String" itemvalue="sqlparse" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
